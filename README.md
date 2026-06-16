@@ -12,7 +12,6 @@
   <a href="mailto:ansanthosh505@gmail.com">
     <img src="https://img.shields.io/badge/Email-ansanthosh505@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Jobs%20%26%20Internships-brightgreen?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=santhoshkumarcoder&style=flat-square&color=blue" />
 </p>
 
