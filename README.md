@@ -1,135 +1,183 @@
-<h1 align="center">Hi, I'm Santhosh Kumar 👋</h1>
+<!-- Header Banner -->
+<div align="center">
 
-<p align="center">
-  <b>SQL & AI Developer · 4+ Years Experience · Tamil Nadu, India</b><br/>
-  <i>Database Engineering · LLM Applications · RAG Pipelines · Query Optimization</i>
-</p>
+```
+███████╗ █████╗ ███╗   ██╗████████╗██╗  ██╗ ██████╗ ███████╗██╗  ██╗
+██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔═══██╗██╔════╝██║  ██║
+███████╗███████║██╔██╗ ██║   ██║   ███████║██║   ██║███████╗███████║
+╚════██║██╔══██║██║╚██╗██║   ██║   ██╔══██║██║   ██║╚════██║██╔══██║
+███████║██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝███████║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-kumar-696575213">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ansanthosh505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ansanthosh505@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=santhoshkumarcoder&style=flat-square&color=blue" />
-</p>
+### `SQL & AI Developer` · `4+ Years` · `Tamil Nadu, India 🇮🇳`
 
----
+*Started with SQL. Stayed for the problem-solving. Now building AI that thinks with data.*
 
-### 🧑‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-kumar-696575213)
+[![Email](https://img.shields.io/badge/Email-ansanthosh505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansanthosh505@gmail.com)
+[![Phone](https://img.shields.io/badge/WhatsApp-+91%2081108%2099074-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918110899074)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+[![Profile Views](https://komarev.com/ghpvc/?username=santhoshkumarcoder&style=for-the-badge&color=0A66C2)](https://github.com/santhoshkumarcoder)
 
-- 🏢 **SQL Developer at XBP Global, Chennai** — 4+ years building and maintaining enterprise-scale databases
-- 🗄️ Deep expertise in **Microsoft SQL Server & PostgreSQL** — stored procedures, triggers, indexing, execution plan tuning
-- 🤖 Expanding into **AI/ML** — building LLM-powered apps with **LangChain and RAG pipelines**
-- ⚡ Reduced query execution time by **30%** through indexing & execution plan optimization
-- 📈 Improved batch processing efficiency by **25%** in production environments
-- 📍 Based in **Tamil Nadu, India**
-- 💼 Open to **SQL Developer, Data Engineer, and AI/ML Developer** roles
+</div>
 
 ---
 
-### 🛠️ Technical Skills
+## 🧑‍💻 About Me
 
-**🗄️ Database Objects**
+> 4+ years designing and optimizing enterprise databases at **XBP Global, Chennai**.
+> Now bridging the gap between **structured data and intelligent AI systems** — building LLM apps, RAG pipelines, and conversational agents with Python and LangChain.
+
+```yaml
+Name       : Santhosh Kumar AN
+Role       : SQL & AI Developer
+Company    : XBP Global, Chennai
+Experience : 4+ Years
+Location   : Tamil Nadu, India
+Stack      : SQL Server · PostgreSQL · Python · LangChain · LLM · RAG
+Seeking    : SQL Developer · Data Engineer · AI/ML Developer roles
+```
+
+---
+
+## ⚡ Achievements
+
+<div align="center">
+
+| 🏆 Metric | 📈 Impact |
+|:---|:---|
+| Query Execution Time | ⬇️ Reduced by **30%** via indexing & execution plan optimization |
+| Batch Processing Efficiency | ⬆️ Improved by **25%** in production environments |
+| UAT → Production Deployments | ✅ Zero data loss across all migration cycles |
+| Production Uptime | 🟢 Maintained critical DB environments with minimal downtime |
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<details open>
+<summary><b>🗄️ Database Objects</b></summary>
+<br/>
 
 ![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![UDFs](https://img.shields.io/badge/UDFs-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![UDFs](https://img.shields.io/badge/User%20Defined%20Functions-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Triggers](https://img.shields.io/badge/Triggers-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Views](https://img.shields.io/badge/Views-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**⚡ Performance Tuning**
+</details>
+
+<details open>
+<summary><b>⚡ Performance Tuning</b></summary>
+<br/>
 
 ![Query Optimization](https://img.shields.io/badge/Query%20Optimization-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Indexing](https://img.shields.io/badge/Indexing-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Execution Plan Analysis](https://img.shields.io/badge/Execution%20Plan%20Analysis-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Indexing](https://img.shields.io/badge/Indexing%20Strategies-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Execution Plan](https://img.shields.io/badge/Execution%20Plan%20Analysis-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**📦 Data Management**
+</details>
+
+<details open>
+<summary><b>📦 Data Management</b></summary>
+<br/>
 
 ![Data Migration](https://img.shields.io/badge/Data%20Migration-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Validation](https://img.shields.io/badge/Data%20Validation-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Concepts-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
 
-**🤖 AI & Machine Learning**
+</details>
+
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
-**🔧 Production Support**
+</details>
+
+<details open>
+<summary><b>🔧 Production Support</b></summary>
+<br/>
 
 ![Issue Analysis](https://img.shields.io/badge/Issue%20Analysis-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Debugging](https://img.shields.io/badge/Debugging-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**🌐 Frontend & Tools**
+</details>
+
+<details open>
+<summary><b>🌐 Frontend & Tools</b></summary>
+<br/>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PgAdmin](https://img.shields.io/badge/PgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-### 💼 Experience
-
-**SQL Developer — XBP Global, Chennai** *(Sep 2021 – Present)*
-
-- Designed and maintained complex SQL queries, stored procedures, triggers, and views for high-volume enterprise databases
-- Managed critical production database environments — monitoring, incident resolution, minimizing downtime
-- Ensured smooth data sync between UAT and Production across deployment cycles
-- Collaborated with application teams and business analysts to translate requirements into optimized DB solutions
-- Reduced query execution time by **30%** through indexing strategies and execution plan analysis
-- Improved batch data processing efficiency by **25%**
+</details>
 
 ---
 
-### 🚀 Projects
+## 💼 Experience
 
-**🏥 Healthcare Management System** `SQL Server`
+### 🏢 SQL Developer — XBP Global, Chennai
+**`Sep 2021 – Present`** · 4+ Years
 
-> Automated healthcare data processing workflows using stored procedures and SQL queries. Handled UAT → Production data migration, ensuring data integrity. Generated structured output files from TIFF-based inputs per client specifications.
-
----
-
-**🤖 AI-Powered Health Symptom Checker** `Python · LangChain · LLM · RAG`
-
-> Built a conversational AI app that analyzes user symptoms and predicts possible health conditions. Integrated multilingual support and smart recommendation logic using LangChain and RAG pipelines for context-aware, accurate health insights.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshkumarcoder&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumarcoder&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkumarcoder&theme=default&hide_border=true" />
-</p>
+```
+✦ Designed complex stored procedures, triggers, UDFs & views for high-volume enterprise databases
+✦ Managed critical production DB environments — monitoring, incident resolution & zero-downtime ops
+✦ Ensured seamless UAT → Production data synchronization across all deployment cycles
+✦ Collaborated with application teams & business analysts to deliver optimized DB solutions
+✦ Documented database schemas, data flows & stored procedures for knowledge transfer
+✦ Reduced query execution time by 30% · Improved batch processing efficiency by 25%
+```
 
 ---
 
-### 🤝 Let's Connect
+## 🚀 Projects
 
-I'm actively looking for **SQL Developer, Data Engineer, or AI/ML Developer** roles. If you're hiring or want to collaborate on something interesting, let's talk!
+### 🏥 Healthcare Management System
+> **Tech Stack:** `Microsoft SQL Server` · `Stored Procedures` · `SQL Queries` · `Data Migration`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-kumar-696575213">
-    <img src="https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ansanthosh505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ansanthosh505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+918110899074">
-    <img src="https://img.shields.io/badge/Phone-+91%2081108%2099074-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+| What | How |
+|:---|:---|
+| 🔄 Automated healthcare data workflows | Built stored procedures to handle end-to-end data processing |
+| 📊 Operational reporting | Developed SQL queries for employee performance & analytics |
+| 🚚 Data migration | Managed UAT → Production migration with full data integrity |
+| 📄 File processing | Processed TIFF-based inputs and generated structured TXT outputs per client specs |
 
 ---
 
-<p align="center">
-  <i>"Good data is the foundation of every good decision."</i>
-</p>
+### 🤖 AI-Powered Health Symptom Checker
+> **Tech Stack:** `Python` · `LangChain` · `LLM` · `RAG Pipelines` · `Conversational AI`
+
+| What | How |
+|:---|:---|
+| 🩺 Symptom analysis engine | Analyzes user-input symptoms and predicts possible health conditions |
+| 🌐 Multilingual support | Integrated conversational AI with multi-language capabilities |
+| 🧠 Context-aware insights | Leveraged RAG pipelines for accurate, grounded health recommendations |
+| 💬 Smart recommendation logic | LangChain-powered agent delivers personalized guidance per session |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm actively seeking **SQL Developer · Data Engineer · AI/ML Developer** roles.
+If you're hiring or building something interesting — let's talk!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-kumar-696575213)
+[![Email](https://img.shields.io/badge/Email-ansanthosh505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansanthosh505@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%2081108%2099074-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918110899074)
+
+---
+
+*"Good data is the foundation of every good decision."*
+
+</div>
