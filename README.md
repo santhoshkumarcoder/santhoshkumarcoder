@@ -30,25 +30,46 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-**Databases & SQL**
+**🗄️ Database Objects**
 
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/PgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![UDFs](https://img.shields.io/badge/UDFs-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Triggers](https://img.shields.io/badge/Triggers-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Views](https://img.shields.io/badge/Views-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**AI & Python**
+**⚡ Performance Tuning**
+
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Indexing](https://img.shields.io/badge/Indexing-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Execution Plan Analysis](https://img.shields.io/badge/Execution%20Plan%20Analysis-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**📦 Data Management**
+
+![Data Migration](https://img.shields.io/badge/Data%20Migration-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Concepts-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
+
+**🤖 AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20%2F%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
-**Tools & Skills**
+**🔧 Production Support**
 
+![Issue Analysis](https://img.shields.io/badge/Issue%20Analysis-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**🌐 Frontend & Tools**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PgAdmin](https://img.shields.io/badge/PgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
